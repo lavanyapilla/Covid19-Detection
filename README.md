@@ -2,7 +2,7 @@
 ## Table of Content
   * [Overview](#overview)
   * [Motivation](#motivation)
-  * [Results](#results)
+ 
   
 
 ## Overview
@@ -11,15 +11,6 @@ widely used in Medical Secotrs.
 
 ## Motivation
 What to do when you are at home due to this pandemic situation?.Doing some important things will lead you better in future,so Finally i worked on a application (real world application) to actually make a difference. I created this application with an intention to help people who are willing to test their health conditon.
-
-## Results
-### input images
-[![](https://github.com/lavanyapilla/Covid19-Detection/blob/main/results/fig1.png)]
-[![](https://github.com/lavanyapilla/Covid19-Detection/blob/main/results/fig2.jpeg)]
-
-### output images
-[![](https://github.com/lavanyapilla/Covid19-Detection/blob/main/results/fig1_res.png)]
-[![](https://github.com/lavanyapilla/Covid19-Detection/blob/main/results/fig2_res.png)]
 
 
 ## Technologies Used
